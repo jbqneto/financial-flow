@@ -1,0 +1,5 @@
+{
+  "name": "FinanciaFlow - Smart Expense Tracker",
+  "description": "A sophisticated personal finance manager with Revolut/Millennium CSV import, AI insights via Gemini, and interactive charts.",
+  "requestFramePermissions": []
+}
